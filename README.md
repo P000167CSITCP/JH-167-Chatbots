@@ -1,6 +1,6 @@
 # RMIT-Chatbot
 
-![image][https://sso-cas.rmit.edu.au/rmitcas/images/logo.png]
+![image](https://sso-cas.rmit.edu.au/rmitcas/images/logo.png)
 
 ## Project Details
 Project Number: P000167CSITCP
